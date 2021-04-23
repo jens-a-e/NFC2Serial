@@ -9,3 +9,5 @@ node-red-run/*
 
 # Mac
 .DS_Store
+apps/GroveNFC\ Tag/GroveNFC\ Tag.xcodeproj/project.xcworkspace
+apps/GroveNFC\ Tag/GroveNFC\ Tag.xcodeproj/xcuserdata/*
