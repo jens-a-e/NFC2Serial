@@ -1,0 +1,6 @@
+{
+    "name": "node-red-project",
+    "description": "Exploration reading NFC vlues from Aruino via Serial",
+    "version": "0.0.1",
+    "private": true
+}

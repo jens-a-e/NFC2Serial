@@ -2,7 +2,8 @@
 node_modules/*
 package-lock.json
 
-node-red-run/*
+node-red-run/node_modules
+node-red-run/.*
 
 # VSCode settings
 .vscode/*
