@@ -1,14 +1,5 @@
-# NodeJS
-node_modules/*
-package-lock.json
-
-node-red-run/node_modules
-node-red-run/.*
-
 # VSCode settings
 .vscode/*
 
 # Mac
 .DS_Store
-apps/GroveNFC\ Tag/GroveNFC\ Tag.xcodeproj/project.xcworkspace
-apps/GroveNFC\ Tag/GroveNFC\ Tag.xcodeproj/xcuserdata/*
