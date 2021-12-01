@@ -1,5 +1,0 @@
-{
-    "board": "arduino:samd:mkrwan1310",
-    "sketch": "readMifare.ino",
-    "port": "/dev/tty.usbmodem141201"
-}
